@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MedicoApp</string>
+    <string name="back_button" />
+    <string name="no_medico" />
+    <string name="title_medico_list" />
+    <string name="title_cita_list" />
+    <string name="no_cita" />
+    <string name="no_citas">\n\n</string>
+</resources>
